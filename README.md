@@ -35,7 +35,7 @@ The **Multiple Disease Prediction System** is a machine learning-based web appli
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Multiple-Disease-Prediction-System.git
+git clone https://github.com/xHarshit/Multiple-Disease-Prediction-System.git
 cd Multiple-Disease-Prediction-System
 ```
 
